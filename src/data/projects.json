@@ -1,0 +1,93 @@
+[
+    { "img_src":"images/robotics.png",
+      "title":"Robomaster AI Name Detector",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Robotics & AI"
+        },
+        {
+          "key": "Link",
+          "text": ""
+        },
+        {
+          "key": "Description",
+          "text": "Developed a creative Mario-inspired platformer game on Scratch. The game is filled with obstacle courses, challenges, and enemies to mimic the thrill and adventure of the original Mario games."
+        }
+        
+      ]
+    },
+    { "img_src":"images/pythonpj1.png",
+      "title":"Connect Four",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Python"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/853700754/"
+        },
+        {
+          "key": "Description",
+          "text": "Produced an action-packed Scratch game emulating the 'bullet hell' genre, where players navigate through a barrage of lemon-shaped projectiles. The game promotes quick decision-making and hand-eye coordination, providing an intense gaming experience."
+        }
+        
+      ]
+    },
+    { "img_src":"images/pythonpj1.png",
+      "title":"Tic tac toe",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Python"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/853712612/"
+        },
+        {
+          "key": "Description",
+          "text": "Crafted a rhythm game on Scratch that tests timing and reflexes. The game syncs movements with different music beats, offering a wide range of difficulty levels to provide a fun, challenging musical experience."
+        }
+        
+      ]
+    },
+    { "img_src":"images/scratch.jpg",
+      "title":"Shooter Game",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Scratch"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/834248058/fullscreen/"
+        },
+        {
+          "key": "Description",
+          "text": "Developed a Python-based 'Algebra Helper' equipped with a user-friendly GUI. This tool assists students in understanding algebraic equations better by dynamically converting provided parameters into comprehensible mathematical expressions."
+        }
+        
+      ]
+    },
+    { "img_src":"images/scratch.jpg",
+      "title":"Flappy bird",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Python"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/834248058/fullscreen/"
+        },
+        {
+          "key": "Description",
+          "text": "Created a Python-based Tic-Tac-Toe game utilizing the terminal as a GUI. It features a user-friendly interface and maintains the classic rules of the game."
+        }
+        
+      ]
+    }
+    
+  ]

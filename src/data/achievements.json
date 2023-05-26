@@ -1,0 +1,88 @@
+[
+    { "img_src":"/images/hwa_chong_olympiad.png",
+      "title":"Singapore Mathematical Olympiad",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of participation"
+        },
+        {
+          "key": "Year",
+          "text": "2023"
+        },
+        {
+          "key": "Description",
+          "text": "Earned the Edusave Good Progress Award in 2021 for marked improvement in learning dispositions and displaying commendable conduct."
+        }
+      ]
+    },
+    { "img_src":"/images/future_ready.png",
+      "title":"Fun with Scratch 3.0",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of completion"
+        },
+        {
+          "key": "Year",
+          "text": "2020"
+        },
+        {
+          "key": "Description",
+          "text": "Earned the Edusave Good Progress Award in 2021 for marked improvement in learning dispositions and displaying commendable conduct."
+        }
+      ]
+    },
+    { "img_src":"/images/nafa.jpg",
+      "title":"Children's Art",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of participation"
+        },
+        {
+          "key": "Year",
+          "text": "2022"
+        },
+        {
+          "key": "Description",
+          "text": "Earned the Edusave Good Progress Award in 2021 for marked improvement in learning dispositions and displaying commendable conduct."
+        }
+      ]
+    },
+    { "img_src":"/images/nmo.png",
+      "title":"National Mathematical Olympiad of Singapore",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of participation"
+        },
+        {
+          "key": "Year",
+          "text": "2022"
+        },
+        {
+          "key": "Description",
+          "text": "Earned the Edusave Good Progress Award in 2021 for marked improvement in learning dispositions and displaying commendable conduct."
+        }
+      ]
+    },
+    { "img_src":"/images/swim_safer.png",
+      "title":"National Mathematical Olympiad of Singapore",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of completion"
+        },
+        {
+          "key": "Year",
+          "text": "2023"
+        },
+        {
+          "key": "Description",
+          "text": "Earned the Edusave Good Progress Award in 2021 for marked improvement in learning dispositions and displaying commendable conduct."
+        }
+      ]
+    }
+    
+  ]
